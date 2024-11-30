@@ -1,0 +1,7 @@
+[tool.codeflash]
+# All paths are relative to this pyproject.toml's directory.
+module-root = "todoApp"
+tests-root = "todoApp"
+test-framework = "pytest"
+ignore-paths = []
+formatter-cmds = ["disabled"]
